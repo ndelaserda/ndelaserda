@@ -1,6 +1,8 @@
 ### Hi there 👋
 #### 🌱 I’m currently learning Python 
 
+[![HitCount](http://hits.dwyl.com/ndelaserda/ndelaserda.svg)](http://hits.dwyl.com/ndelaserda/ndelaserda)
+
 <!--
 **ndelaserda/ndelaserda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
